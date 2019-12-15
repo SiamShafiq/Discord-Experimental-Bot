@@ -1,4 +1,5 @@
-#Discord-Experimental-Bot
+Discord-Experimental-Bot
+
 This was an experimental bot that I created to test out Discord's Python API
 
 The functionality is limited to checking Win/Lose rates and posting them to the discord channel.
